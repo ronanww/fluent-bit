@@ -202,4 +202,3 @@ This program is under the terms of the [Apache License v2.0](http://www.apache.o
 [Fluent Bit](http://fluentbit.io) is sponsored and maintained by several companies in the Cloud Native community, including all the major cloud providers.
 
 You can see a list of contributors [here](https://github.com/fluent/fluent-bit/graphs/contributors).
-
