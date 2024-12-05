@@ -203,4 +203,3 @@ This program is under the terms of the [Apache License v2.0](http://www.apache.o
 
 You can see a list of contributors [here](https://github.com/fluent/fluent-bit/graphs/contributors).
 
-
